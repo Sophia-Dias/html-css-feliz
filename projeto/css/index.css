@@ -6,6 +6,17 @@ header {
     padding: 10px 20px;
 }
 
+h1 {
+    display: inline-flex;
+    align-items: center;
+    margin: 0px;
+    font-size: 40px;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: #CAF7E3;
+    text-shadow: #2C2C2C;
+}
+
 nav {
     text-align: right;
 }
@@ -19,17 +30,6 @@ a {
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
     font-weight: 500;
     text-decoration: none;
-}
-
-h1 {
-    display: inline-flex;
-    align-items: center;
-    margin: 0px;
-    font-size: 40px;
-    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
-    font-weight: 500;
-    color: #CAF7E3;
-    
 }
 
 a::before {
