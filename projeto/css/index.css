@@ -11,10 +11,10 @@ h1 {
     align-items: center;
     margin: 0px;
     font-size: 40px;
-    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-family: "Press Start 2P", sans-serif;
     font-weight: 500;
     color: #CAF7E3;
-    text-shadow: #2C2C2C;
+    text-shadow: 3px 2px #2C2C2C;
 }
 
 nav {
@@ -27,7 +27,7 @@ a {
     margin-right: 30px;
     color: #FFF;
     font-size: 20px;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-family: "Fira Code", sans-serif;
     font-weight: 500;
     text-decoration: none;
 }
